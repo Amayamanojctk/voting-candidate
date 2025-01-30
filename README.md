@@ -2,7 +2,7 @@ File structure
 
 online-voting-system/
 ├──index.html
-├── admin
+├── admin/
 │   ├── index.php
 │   ├── login.php
 │   ├── manage_candidates.php
@@ -10,10 +10,10 @@ online-voting-system/
 │   └── assets/
 │       ├── css/
 │       └── js/
-├── user
+├── user/
 │   ├── index.php
 │   └── vote.php
-├── db
+├── db/
 │   └── db_connect.php
 └── uploads/
 
